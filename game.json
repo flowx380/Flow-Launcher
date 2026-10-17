@@ -3,19 +3,19 @@
   {
     "title": "SuperTuxKart",
     "category": "Yarış",
-    "description": "Ücretsiz kart yarışı.",
-    "size": "Windows • Ücretsiz",
+    "description": "Ücretsiz, açık kaynaklı kart yarışı oyunu.",
+    "size": "1 GB",
     "downloadUrl": "https://supertuxkart.net/Download",
-    "imageUrl": ""imageUrl": "https://ornek-site.com/supertuxkart.jpg"",
+    "imageUrl": "",
     "accent": "#A3FF12"
   },
   {
     "title": "OpenTTD",
-    "category": "Simülasyon",
-    "description": "Ulaşım ağları kur ve şehirleri geliştir.",
-    "size": "Windows • Ücretsiz",
+    "category": "Strateji",
+    "description": "Kendi ulaşım ve taşımacılık ağını kur.",
+    "size": "50 MB",
     "downloadUrl": "https://www.openttd.org/downloads/openttd-releases/latest.html",
     "imageUrl": "",
-    "accent": "#63D9FF"
+    "accent": "#38BDF8"
   }
 ]
